@@ -1,0 +1,195 @@
+@font-face {
+    font-family: "canvas-report"; /* Project id 2880166 */
+    src: url('iconfont.woff2?t=1645088417629') format('woff2'),
+    url('iconfont.woff?t=1645088417629') format('woff'),
+    url('iconfont.ttf?t=1645088417629') format('truetype');
+}
+
+.canvas-report {
+    font-family: "canvas-report" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bangdingchenggong:before {
+    content: "\e733";
+}
+
+.icon-download:before {
+    content: "\e62b";
+}
+
+.icon-xueshengguanli:before {
+    content: "\e673";
+}
+
+.icon-tongzhiguanli-:before {
+    content: "\e634";
+}
+
+.icon-jiaoshiguanli:before {
+    content: "\e728";
+}
+
+.icon-tongjifenxi-changguitongji:before {
+    content: "\e626";
+}
+
+.icon-shiyan:before {
+    content: "\e653";
+}
+
+.icon-shijian_o:before {
+    content: "\ebb1";
+}
+
+.icon-jiezhishijian:before {
+    content: "\e617";
+}
+
+.icon-kecheng-:before {
+    content: "\e61f";
+}
+
+.icon-delete:before {
+    content: "\e607";
+}
+
+.icon-shouye:before {
+    content: "\e630";
+}
+
+.icon-shezhi:before {
+    content: "\e65a";
+}
+
+.icon-ziliao:before {
+    content: "\e615";
+}
+
+.icon-check:before {
+    content: "\e60a";
+}
+
+.icon-pencil:before {
+    content: "\e681";
+}
+
+.icon-cha:before {
+    content: "\e61a";
+}
+
+.icon-refresh:before {
+    content: "\e782";
+}
+
+.icon-font:before {
+    content: "\e652";
+}
+
+.icon-circle-thin:before {
+    content: "\e601";
+}
+
+.icon-search-plus:before {
+    content: "\e609";
+}
+
+.icon-eraser:before {
+    content: "\e63d";
+}
+
+.icon-right-arrow:before {
+    content: "\e658";
+}
+
+.icon-left-arrow:before {
+    content: "\e659";
+}
+
+.icon-move:before {
+    content: "\e616";
+}
+
+.icon-arrow:before {
+    content: "\e603";
+}
+
+.icon-search-minus:before {
+    content: "\e7c5";
+}
+
+.icon-square:before {
+    content: "\e7d1";
+}
+
+.icon-rotate-left:before {
+    content: "\e69a";
+}
+
+.icon-rotate-right:before {
+    content: "\e69b";
+}
+
+.icon-circle:before {
+    content: "\e6d0";
+}
+
+.icon-arrow-l:before {
+    content: "\e788";
+}
+
+.icon-arrow-r:before {
+    content: "\e789";
+}
+
+.icon-home:before {
+    content: "\e63e";
+}
+
+.icon-plus-circle-fill:before {
+    content: "\e7e0";
+}
+
+.icon-zuoye:before {
+    content: "\e625";
+}
+
+.icon-gerenxinxi:before {
+    content: "\e641";
+}
+
+.icon-kebiao-rilikebiao:before {
+    content: "\e6b8";
+}
+
+.icon-chat:before {
+    content: "\e749";
+}
+
+.icon-notice:before {
+    content: "\e619";
+}
+
+.icon-file-open:before {
+    content: "\e670";
+}
+
+.icon-AfterclassHomework-Outlined:before {
+    content: "\e62e";
+}
+
+.icon-ziliaoku:before {
+    content: "\e600";
+}
+
+.icon-kechengbiao:before {
+    content: "\e602";
+}
+
+.icon-baogao:before {
+    content: "\e62d";
+}
+
