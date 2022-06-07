@@ -1,14 +1,31 @@
 {
   "name": "canvas-report",
   "version": "1.0.0",
-  "description": "",
+  "description": "canvas的图片编辑器，可以任意旋转画图，方形、圆形、文字、对勾、箭头、放大、缩小，橡皮、重置、不会出现旋转或放大或移动后，鼠标路径与绘制路径不符情况",
   "main": "dist/canvasReport.min.js",
+  "homepage": "https://github.com/GRITWJY/canvas-report",
+  "bugs": {
+    "url": "https://github.com/GRITWJY/canvas-report/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GRITWJY/canvas-report.git"
+  },
   "scripts": {
     "start": "webpack-dev-server --hot --inline",
     "build": "webpack --display-error-details --config webpack.config.js"
   },
-  "keywords": [],
-  "author": "WJYGRIT",
+  "keywords": [
+    "canvas",
+    "编辑器",
+    "editor",
+    "picture",
+    "image"
+  ],
+  "author": {
+    "name": "wjygrit",
+    "email": "1435408225@qq.com"
+  },
   "license": "ISC",
   "devDependencies": {
     "canvas-arrow": "^1.1.1",
